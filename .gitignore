@@ -1,0 +1,7 @@
+# Ignore dependencies
+node_modules/
+.pnpm-store/
+
+01_tailwindcss_demo/src/output.css
+
+.DS-Store
